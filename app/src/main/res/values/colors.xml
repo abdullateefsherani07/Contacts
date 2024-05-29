@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="contact_green">#0AD270</color>
+    <color name="contact_pink">#F02867</color>
+    <color name="contact_deepSaffron">#FF9623</color>
+    <color name="contact_violet">#6442B3</color>
+    <color name="contact_yellow">#FFC700</color>
+    <color name="contact_darkRed">#C41442</color>
+    <color name="contact_cyan">#23BFD6</color>
+
+    <color name="contact_green_dark">#067C51</color>
+    <color name="contact_pink_dark">#A01C45</color>
+    <color name="contact_deepSaffron_dark">#CC781D</color>
+    <color name="contact_violet_dark">#3A2577</color>
+    <color name="contact_yellow_dark">#B39E00</color>
+    <color name="contact_darkRed_dark">#7A0F2F</color>
+    <color name="contact_cyan_dark">#178C9A</color>
+</resources>
